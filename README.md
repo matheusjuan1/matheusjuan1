@@ -17,7 +17,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-222222?style=flat-square&logo=React&logoColor=)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF)
 
 ## Connect with Me
 
