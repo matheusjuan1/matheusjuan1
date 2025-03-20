@@ -15,11 +15,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-222222?style=flat-square&logo=React&logoColor=)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=React&logoColor=)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusjuan1&layout=compact&bg_color=000&border_color=78C0E0&title_color=78C0E0&text_color=FFF&hide=dockerfile)
 
 ## Connect with Me
 
